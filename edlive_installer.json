@@ -1,5 +1,6 @@
 {
   "version": "0.0.2",
   "obs_version": "27.1.4",
-  "default_scene_collection_version": "1.0.0"
+  "collections_repository_slug": "Les-Studios-EdLive/obs_collections",
+  "collections_version": "0.2.1"
 }
