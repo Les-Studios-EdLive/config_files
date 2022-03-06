@@ -2,5 +2,8 @@
   "version": "0.0.2",
   "obs_version": "27.1.4",
   "collections_repository_slug": "Les-Studios-EdLive/obs_collections",
-  "collections_version": "0.2.3"
+  "collections_version": "0.2.3",
+  "cameras": {
+    "v180": "Panasonics V180"
+  }
 }
