@@ -4,6 +4,7 @@
   "collections_repository_slug": "Les-Studios-EdLive/obs_collections",
   "collections_version": "0.2.6",
   "cameras": {
-    "v180": "Panasonics V180"
+    "v180": "Panasonics V180",
+    "edCam": "Caméra EdLive"
   }
 }
